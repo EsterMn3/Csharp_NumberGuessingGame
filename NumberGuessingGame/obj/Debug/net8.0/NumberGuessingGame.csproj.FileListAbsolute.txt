@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.exe
+C:\Users\hp\C#projects\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.deps.json
+C:\Users\hp\C#projects\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\hp\C#projects\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.dll
+C:\Users\hp\C#projects\NumberGuessingGame\bin\Debug\net8.0\NumberGuessingGame.pdb
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.dll
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\refint\NumberGuessingGame.dll
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.pdb
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\hp\C#projects\NumberGuessingGame\obj\Debug\net8.0\ref\NumberGuessingGame.dll
